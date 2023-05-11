@@ -26,18 +26,24 @@ section{
     height: 400px;
     
 }
-#variavel{
-    background-image: linear-gradient(azure, white);
+
+    
+button{
+    background: linear-gradient(rgb(189, 243, 243),azure );
     width: 40%;
-    padding-bottom: 5%;
+    padding-bottom: 3%;
     display: inline-block;
     border-radius: 15px;
     height: 50px;
     margin-top: 10px;
-    
+    margin-bottom: auto;
 }
 #imagens{
     
+}
+#demo{
+    margin-bottom: 10px;
+
 }
 footer{
     text-align:center;
